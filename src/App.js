@@ -1,7 +1,7 @@
 import { Component } from "react";
 
-import CardList from "./components/cardList/cardList.component.jsx";
-import SearchBox from "./components/searchBox/searchBox.component.jsx";
+import CardList from "./components/cardList/card-list.component.jsx";
+import SearchBox from "./components/searchBox/search-box.component.jsx";
 
 import "./App.css";
 
